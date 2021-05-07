@@ -1,0 +1,12 @@
+x=45
+y=4.45
+name='ravi'
+nums=[1,2.3,4]
+male=True
+dict={1:'kiran',2:'kyasani'}
+print(type(x),x)
+print(type(y),y)
+print(type(name),name)
+print(type(nums),nums)
+print(type(male),name)
+print(type(dict),dict)
