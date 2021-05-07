@@ -1,0 +1,16 @@
+a=10
+print(type(a),a)
+a=str(a)
+print(type(a),a)
+a=10.2
+print(type(a),a)
+a=complex(a)
+print(type(a),a)
+a=[1,2.3,4]
+print(type(a),a)
+a=set(a)
+print(type(a),a)
+a='hello'
+print(type(a),a)
+a=bool(a)
+print(type(a),a)
